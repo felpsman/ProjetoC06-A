@@ -1,7 +1,7 @@
 # ProjetoC06-A
 Repositorio para armazenar o projeto realizado para materia C06-A. O projeto foi criar uma linha de producao de uma empresa de equipamentos biomedicos.
 Nomes:
-Felipe Lamy Rosa Renno - 507  
+Felipe Lamy Rosa Renno - 507 - GES 
 Flávia Lima - 217 - GEP
 Petros Silveira Paradello - 2192 - GEC
 Eduardo Filhagosa Guimaraes - 755 - GEB
